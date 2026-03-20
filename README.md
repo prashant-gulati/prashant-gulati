@@ -22,5 +22,7 @@ Technical Group Product Manager with deep experience building Cloud IaaS product
 - Grew a venture-funded e-commerce company to $5 million valuation, profitability and built a 25 person team
 - GenAI Builder: Built LLMs from scratch with RAG and agentic workflows
 
-### Specialities: Cloud • Ads • AI/ML
-### Technical Specialties: Python • Javascript • Pytorch
+### Specialities: 
+Cloud • Ads • AI/ML
+### Technical Specialties: 
+Python • Javascript • Pytorch
