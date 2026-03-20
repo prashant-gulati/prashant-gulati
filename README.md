@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 Technical Group Product Manager with deep experience building Cloud IaaS products and Google-scale ad system optimizations.
 
-Highlights:
-• Drove $500M ARR growth on Youtube Shorts Ads with AI/ML optimizations delivered to 1B+ users
-• Led Product teams in Cloud Billing with 130+ engineers managing $10B+ revenue
-• Shipped Google Cloud Eventarc from pre-alpha to GA to 2000+ enterprise customers
-• Grew a venture-funded e-commerce company to $5 million valuation, profitability and built a 25 person team
-• GenAI Builder: Built LLMs from scratch with RAG and agentic workflows
+### Highlights:
+- Drove $500M ARR growth on Youtube Shorts Ads with AI/ML optimizations delivered to 1B+ users
+- Led Product teams in Cloud Billing with 130+ engineers managing $10B+ revenue
+- Shipped Google Cloud Eventarc from pre-alpha to GA to 2000+ enterprise customers
+- Grew a venture-funded e-commerce company to $5 million valuation, profitability and built a 25 person team
+- GenAI Builder: Built LLMs from scratch with RAG and agentic workflows
 
-Specialities: Cloud • Ads • AI/ML
-Technical Specialties: Python • Javascript • Pytorch
+### Specialities: Cloud • Ads • AI/ML
+### Technical Specialties: Python • Javascript • Pytorch
